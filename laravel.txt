@@ -4,3 +4,4 @@ npm install
 npm run dev
 changes in the table
 php artisan migrate
+that is setup system of laravel is the fine
